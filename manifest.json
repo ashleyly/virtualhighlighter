@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Virtual Highlighter",
+  "description": "Highlight phrases, dates, and reminders using the Virtual Highlighter!",
+  "version": "1",
+  "author": "Ashley",
+ "background": {
+   "scripts": ["index.js"]
+ },
+  "permissions": ["contextMenus"],
+
+  "icons": {
+            "16": "highlighter.png"
+  }
+}
